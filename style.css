@@ -36,11 +36,20 @@ li {
   font-size: 20px;
 }
 
-.copyright {
-  font-size: 16px;
-}
-
-#author {
+.author {
   font-style: italic;
   font-size: 18px;
+}
+
+.related {
+  list-style: none;
+}
+
+.related-author {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.copyright {
+  font-size: 16px;
 }
